@@ -1,5 +1,5 @@
 //Program to demonstrate static variables
-package Staticariable;
+package StaticVariable;
 
 public class EmployeeDemo {
 
